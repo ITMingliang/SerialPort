@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a35c7590-8cfd-431e-95ac-04a03473d624": {
+      "ProjectGuid": "a35c7590-8cfd-431e-95ac-04a03473d624",
+      "DisplayName": "01.串口通信",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

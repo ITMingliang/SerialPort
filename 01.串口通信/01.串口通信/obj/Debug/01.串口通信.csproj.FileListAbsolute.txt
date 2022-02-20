@@ -1,0 +1,11 @@
+F:\Learning\串口\SerialPort\01.串口通信\01.串口通信\bin\Debug\01.串口通信.exe.config
+F:\Learning\串口\SerialPort\01.串口通信\01.串口通信\bin\Debug\01.串口通信.exe
+F:\Learning\串口\SerialPort\01.串口通信\01.串口通信\bin\Debug\01.串口通信.pdb
+F:\Learning\串口\SerialPort\01.串口通信\01.串口通信\obj\Debug\01.串口通信.csproj.AssemblyReference.cache
+F:\Learning\串口\SerialPort\01.串口通信\01.串口通信\obj\Debug\01.串口通信.csproj.SuggestedBindingRedirects.cache
+F:\Learning\串口\SerialPort\01.串口通信\01.串口通信\obj\Debug\_01.串口通信.Form1.resources
+F:\Learning\串口\SerialPort\01.串口通信\01.串口通信\obj\Debug\_01.串口通信.Properties.Resources.resources
+F:\Learning\串口\SerialPort\01.串口通信\01.串口通信\obj\Debug\01.串口通信.csproj.GenerateResource.cache
+F:\Learning\串口\SerialPort\01.串口通信\01.串口通信\obj\Debug\01.串口通信.csproj.CoreCompileInputs.cache
+F:\Learning\串口\SerialPort\01.串口通信\01.串口通信\obj\Debug\01.串口通信.exe
+F:\Learning\串口\SerialPort\01.串口通信\01.串口通信\obj\Debug\01.串口通信.pdb
