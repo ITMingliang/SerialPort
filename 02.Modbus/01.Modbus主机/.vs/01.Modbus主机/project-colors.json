@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fc859be9-e8a2-4383-a08a-ab9baf26a4f9": {
+      "ProjectGuid": "fc859be9-e8a2-4383-a08a-ab9baf26a4f9",
+      "DisplayName": "01.Modbus主机",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

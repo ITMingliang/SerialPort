@@ -1,0 +1,14 @@
+F:\Learning\串口\SerialPort\02.Modbus\02.Modbus读寄存器\bin\Debug\01.Modbus主机.exe.config
+F:\Learning\串口\SerialPort\02.Modbus\02.Modbus读寄存器\bin\Debug\01.Modbus主机.exe
+F:\Learning\串口\SerialPort\02.Modbus\02.Modbus读寄存器\bin\Debug\01.Modbus主机.pdb
+F:\Learning\串口\SerialPort\02.Modbus\02.Modbus读寄存器\bin\Debug\00.ModbusLib.dll
+F:\Learning\串口\SerialPort\02.Modbus\02.Modbus读寄存器\bin\Debug\00.ModbusLib.pdb
+F:\Learning\串口\SerialPort\02.Modbus\02.Modbus读寄存器\obj\Debug\02.Modbus读寄存器.csproj.AssemblyReference.cache
+F:\Learning\串口\SerialPort\02.Modbus\02.Modbus读寄存器\obj\Debug\02.Modbus读寄存器.csproj.SuggestedBindingRedirects.cache
+F:\Learning\串口\SerialPort\02.Modbus\02.Modbus读寄存器\obj\Debug\_02.Modbus读寄存器.Form1.resources
+F:\Learning\串口\SerialPort\02.Modbus\02.Modbus读寄存器\obj\Debug\_02.Modbus读寄存器.Properties.Resources.resources
+F:\Learning\串口\SerialPort\02.Modbus\02.Modbus读寄存器\obj\Debug\02.Modbus读寄存器.csproj.GenerateResource.cache
+F:\Learning\串口\SerialPort\02.Modbus\02.Modbus读寄存器\obj\Debug\02.Modbus读寄存器.csproj.CoreCompileInputs.cache
+F:\Learning\串口\SerialPort\02.Modbus\02.Modbus读寄存器\obj\Debug\02.Modbus读寄存器.csproj.CopyComplete
+F:\Learning\串口\SerialPort\02.Modbus\02.Modbus读寄存器\obj\Debug\01.Modbus主机.exe
+F:\Learning\串口\SerialPort\02.Modbus\02.Modbus读寄存器\obj\Debug\01.Modbus主机.pdb

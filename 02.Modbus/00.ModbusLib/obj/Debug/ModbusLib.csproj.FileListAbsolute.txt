@@ -1,0 +1,6 @@
+F:\Learning\串口\SerialPort\02.Modbus\00.ModbusLib\bin\Debug\00.ModbusLib.dll
+F:\Learning\串口\SerialPort\02.Modbus\00.ModbusLib\bin\Debug\00.ModbusLib.pdb
+F:\Learning\串口\SerialPort\02.Modbus\00.ModbusLib\obj\Debug\ModbusLib.csproj.CoreCompileInputs.cache
+F:\Learning\串口\SerialPort\02.Modbus\00.ModbusLib\obj\Debug\00.ModbusLib.dll
+F:\Learning\串口\SerialPort\02.Modbus\00.ModbusLib\obj\Debug\00.ModbusLib.pdb
+F:\Learning\串口\SerialPort\02.Modbus\00.ModbusLib\obj\Debug\ModbusLib.csproj.AssemblyReference.cache
