@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Modbus读寄存器", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Modbus写寄存器", "..\03.Modbus写寄存器\03.Modbus写寄存器.csproj", "{08375B3B-0869-47F5-BB2C-D1FCAC699CF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.PlcDemo", "..\04.PlcDemo\04.PlcDemo.csproj", "{67081841-1052-4BD6-A841-011ABBC5C909}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{08375B3B-0869-47F5-BB2C-D1FCAC699CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08375B3B-0869-47F5-BB2C-D1FCAC699CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08375B3B-0869-47F5-BB2C-D1FCAC699CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67081841-1052-4BD6-A841-011ABBC5C909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67081841-1052-4BD6-A841-011ABBC5C909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67081841-1052-4BD6-A841-011ABBC5C909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67081841-1052-4BD6-A841-011ABBC5C909}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

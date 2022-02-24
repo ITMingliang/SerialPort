@@ -1,0 +1,15 @@
+F:\Learning\串口\SerialPort\02.Modbus\04.PlcDemo\bin\Debug\01.Modbus主机.exe.config
+F:\Learning\串口\SerialPort\02.Modbus\04.PlcDemo\bin\Debug\01.Modbus主机.exe
+F:\Learning\串口\SerialPort\02.Modbus\04.PlcDemo\bin\Debug\01.Modbus主机.pdb
+F:\Learning\串口\SerialPort\02.Modbus\04.PlcDemo\bin\Debug\S7.Net.dll
+F:\Learning\串口\SerialPort\02.Modbus\04.PlcDemo\bin\Debug\S7.Net.xml
+F:\Learning\串口\SerialPort\02.Modbus\04.PlcDemo\obj\Debug\04.PlcDemo.csproj.SuggestedBindingRedirects.cache
+F:\Learning\串口\SerialPort\02.Modbus\04.PlcDemo\obj\Debug\_04.PlcDemo.Form1.resources
+F:\Learning\串口\SerialPort\02.Modbus\04.PlcDemo\obj\Debug\_04.PlcDemo.Properties.Resources.resources
+F:\Learning\串口\SerialPort\02.Modbus\04.PlcDemo\obj\Debug\04.PlcDemo.csproj.GenerateResource.cache
+F:\Learning\串口\SerialPort\02.Modbus\04.PlcDemo\obj\Debug\04.PlcDemo.csproj.CoreCompileInputs.cache
+F:\Learning\串口\SerialPort\02.Modbus\04.PlcDemo\obj\Debug\04.PlcDemo.csproj.CopyComplete
+F:\Learning\串口\SerialPort\02.Modbus\04.PlcDemo\obj\Debug\01.Modbus主机.exe
+F:\Learning\串口\SerialPort\02.Modbus\04.PlcDemo\obj\Debug\01.Modbus主机.pdb
+F:\Learning\串口\SerialPort\02.Modbus\04.PlcDemo\bin\Debug\thinger.cn.DataConvertHelper.dll
+F:\Learning\串口\SerialPort\02.Modbus\04.PlcDemo\bin\Debug\thinger.cn.DataConvertHelper.xml
