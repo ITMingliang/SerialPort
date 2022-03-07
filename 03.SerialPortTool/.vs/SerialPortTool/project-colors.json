@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dc6aba3f-fd1f-4aad-a632-0b74ffaa55b7": {
+      "ProjectGuid": "dc6aba3f-fd1f-4aad-a632-0b74ffaa55b7",
+      "DisplayName": "SerialPortTool",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

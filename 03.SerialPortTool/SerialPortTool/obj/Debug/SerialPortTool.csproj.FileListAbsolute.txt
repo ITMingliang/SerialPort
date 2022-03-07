@@ -1,0 +1,9 @@
+F:\Learning\串口\Csha_demo\Application_usart\obj\Debug\SerialPortTool.Form1.resources
+F:\Learning\串口\Csha_demo\Application_usart\obj\Debug\SerialPortTool.Properties.Resources.resources
+F:\Learning\串口\Csha_demo\Application_usart\obj\Debug\SerialPortTool.csproj.GenerateResource.cache
+F:\Learning\串口\Csha_demo\Application_usart\obj\Debug\SerialPortTool.csproj.CoreCompileInputs.cache
+F:\Learning\串口\Csha_demo\Application_usart\bin\Debug\SerialPortTool.exe.config
+F:\Learning\串口\Csha_demo\Application_usart\bin\Debug\SerialPortTool.exe
+F:\Learning\串口\Csha_demo\Application_usart\bin\Debug\SerialPortTool.pdb
+F:\Learning\串口\Csha_demo\Application_usart\obj\Debug\SerialPortTool.exe
+F:\Learning\串口\Csha_demo\Application_usart\obj\Debug\SerialPortTool.pdb
